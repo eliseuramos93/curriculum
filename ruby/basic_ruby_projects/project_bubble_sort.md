@@ -16,7 +16,7 @@ There's also [an entry on Bubble Sort on Wikipedia](http://en.wikipedia.org/wiki
 * Build a method `#bubble_sort` that takes an array and returns a sorted array.  It must use the bubble sort methodology (using `#sort` would be pretty pointless, wouldn't it?).
 
 ~~~ruby
-> bubble_sort([4,3,78,2,0,2])
-=> [0,2,2,3,4,78]
+> bubble_sort([4,3,78,2,0,2,5])
+=> [0,2,2,3,4,5,78]
 ~~~
 </div>
